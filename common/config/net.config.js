@@ -5,13 +5,7 @@ export const netConfig = {
 	// axios 基础url地址
 	baseURL: [
 		// 测试
-		'http://192.168.1.128',
-		'ws://192.168.1.128/mc',
-		'http://192.168.1.128/mc',
-		// 线上
-		// 'https://zw.lfszgh.com',
-		// 'wss://zw.lfszgh.com/mc',
-		// 'https://zw.lfszgh.com/mc',
+		'http://xxx.xxx.xxx.xxx',
 	],
 	// 为开发服务器配置 CORS。默认启用并允许任何源，传递一个 选项对象 来调整行为或设为 false 表示禁用
 	cors: true,
